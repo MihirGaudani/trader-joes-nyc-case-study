@@ -6,17 +6,13 @@ __pycache__/
 
 .env
 
-data/raw/*
-data/interim/*
-data/processed/*
+
 
 !data/raw/.gitkeep
 !data/interim/.gitkeep
 !data/processed/.gitkeep
 
-outputs/figs/*
-outputs/tables/*
-outputs/maps/*
+
 
 !outputs/figs/.gitkeep
 !outputs/tables/.gitkeep

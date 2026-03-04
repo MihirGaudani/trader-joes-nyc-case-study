@@ -1,0 +1,4 @@
+rank,zip_code,boroname,site_selection_score,tj_customer_fit_score,competitor_count_1mi,nearest_competitor_miles,avg_asking_rent_psf
+1,10028,Manhattan,0.683,0.855,2,0.225,259
+2,10128,Manhattan,0.657,0.822,1,0.19,297
+3,11215,Brooklyn,0.587,0.702,1,0.855,141

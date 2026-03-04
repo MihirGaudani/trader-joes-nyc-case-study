@@ -1,0 +1,1 @@
+data/raw/tl_2022_us_zcta520.zip filter=lfs diff=lfs merge=lfs -text

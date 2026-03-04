@@ -1,0 +1,4 @@
+Final Rank,Core Rank,ZIP,Borough,Population,Pop. Density (per sq mi),Income Percentile,Nearest TJ (mi),Subway Stops,Nearest Competitor (mi),Competitors ≤1 mi,Rent Proxy ($/SF)
+1,2,10128,Manhattan,"59,000","130,084",0.89,1.19,2.0,0.19,1,297
+2,6,11238,Brooklyn,"58,462","30,185",0.86,1.77,7.0,1.21,0,105
+3,4,11226,Brooklyn,"100,022","76,785",0.34,3.53,7.0,2.59,0,105

@@ -1,0 +1,11 @@
+Rank,ZIP,Borough,Pop. Density (per sq mi),Income Percentile,Nearest TJ (mi),Subway Stops,Nearest Competitor (mi),Competitors ≤1 mi,Rent Proxy ($/SF)
+1,10028,Manhattan,144778,0.94,1.23,2.0,0.23,2,259
+2,10128,Manhattan,130084,0.89,1.19,2.0,0.19,1,297
+3,11215,Brooklyn,32072,0.96,1.89,7.0,0.86,1,141
+4,11226,Brooklyn,76785,0.34,3.53,7.0,2.59,0,105
+5,10036,Manhattan,68396,0.69,1.23,4.0,0.47,2,583
+6,11238,Brooklyn,30185,0.86,1.77,7.0,1.21,0,105
+7,11218,Brooklyn,52361,0.66,3.32,3.0,2.28,0,104
+8,11225,Brooklyn,64634,0.39,2.6,7.0,2.01,0,105
+9,11211,Brooklyn,43923,0.73,1.06,6.0,0.28,2,250
+10,11209,Brooklyn,33481,0.64,5.07,3.0,4.26,0,90

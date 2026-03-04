@@ -1,0 +1,11 @@
+rank,zip_code,borough,neighborhood_proxy,retail_corridor_proxy,avg_asking_rent_psf,source_name,source_period,notes
+1,10028,Manhattan,Upper East Side,Third Avenue (60th Street - 72nd Street),259,REBNY Manhattan Retail Report,H1 2024,Used Third Avenue as Upper East Side proxy
+2,10128,Manhattan,Upper East Side,East 86th Street (Lexington Avenue - Second Avenue),297,REBNY Manhattan Retail Report,H1 2024,Used East 86th Street as closer proxy for 10128
+3,11215,Brooklyn,Park Slope,Seventh Ave (Union St - Ninth Street),141,REBNY Brooklyn Retail Report,2024,Direct Park Slope corridor proxy
+4,11226,Brooklyn,Flatbush / Prospect Lefferts Gardens,Flatbush Ave (Fifth Ave - Grand Army Plaza),105,REBNY Brooklyn Retail Report,2024,Used nearest Flatbush/Prospect Heights corridor proxy
+5,10036,Manhattan,Midtown West / Bryant Park,Fifth Avenue (42nd Street - 49th Street),583,REBNY Manhattan Retail Report,H1 2024,Used closest Bryant Park / Midtown East-facing corridor proxy
+6,11238,Brooklyn,Prospect Heights / Clinton Hill,Flatbush Ave (Fifth Ave - Grand Army Plaza),105,REBNY Brooklyn Retail Report,2024,Used Prospect Heights corridor proxy
+7,11218,Brooklyn,Kensington / Windsor Terrace,Fifth Ave (Union St - Ninth Street),104,REBNY Brooklyn Retail Report,2024,Used South Slope / Park-adjacent proxy
+8,11225,Brooklyn,Prospect Lefferts Gardens / Crown Heights South,Flatbush Ave (Fifth Ave - Grand Army Plaza),105,REBNY Brooklyn Retail Report,2024,Used nearest Flatbush corridor proxy
+9,11211,Brooklyn,Williamsburg,Bedford Ave (Grand St - North Eighth Street),250,REBNY Brooklyn Retail Report,2024,Used prime Williamsburg Bedford South corridor proxy
+10,11209,Brooklyn,Bay Ridge,86th Street (4th Ave - Fort Hamilton Pkwy),90,REBNY Brooklyn Retail Report,2024,Direct Bay Ridge corridor proxy
