@@ -1,0 +1,10 @@
+pandas
+numpy
+geopandas
+matplotlib
+jupyter
+notebook
+shapely
+folium
+scikit-learn
+requests
